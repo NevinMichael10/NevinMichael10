@@ -24,7 +24,7 @@
  
  
  <p align="center">
-	<a href="mailto:nevinmichael28@gmail.com.com?subject=Github%20Visitor&body=Hi%20Nevin,..."><img src="http://img.shields.io/badge/nevinmichael28@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="nevinmichael@gmail.com">
+	<a href="mailto:nevinmichael28@gmail.com?subject=Github%20Visitor&body=Hi%20Nevin,..."><img src="http://img.shields.io/badge/nevinmichael28@gmail.com-_?label=Send%20Mail&style=social&logo=gmail" alt="nevinmichael@gmail.com">
     </a>
  </p>
 
@@ -40,7 +40,7 @@
 
 I'm Nevin Michael, B.tech Computer Science & Engineering Student From kerala,India
 
-- 📫 How to reach me: nevinmichael28@gmail.com.com <br>
+- 📫 How to reach me: nevinmichael28@gmail.com <br>
 
 
 <!-- <h3>🐦 Github Statistics </h3>
