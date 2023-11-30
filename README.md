@@ -38,7 +38,7 @@
  
  ### Glad to see you here! 🤩 &nbsp;
 
-I'm Nevin Michael, B.tech Computer Science & Engineering graduate and StrebenTechnik developer From kerala,India
+I'm Nevin Michael, B.tech Computer Science & Engineering graduate and currently working as Full stack developer at StrebenTechnik.
 
 - 📫 How to reach me: nevinmichael28@gmail.com <br>
 
