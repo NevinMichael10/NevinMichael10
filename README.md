@@ -38,7 +38,7 @@
  
  ### Glad to see you here! 🤩 &nbsp;
 
-I'm Nevin Michael, B.tech Computer Science & Engineering Student From kerala,India
+I'm Nevin Michael, B.tech Computer Science & Engineering graduate and StrebenTechnik developer From kerala,India
 
 - 📫 How to reach me: nevinmichael28@gmail.com <br>
 
